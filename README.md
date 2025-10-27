@@ -1,0 +1,2 @@
+# strategy_TheFarmerWasReplaced
+game TheFarmerWasReplaced strategy
